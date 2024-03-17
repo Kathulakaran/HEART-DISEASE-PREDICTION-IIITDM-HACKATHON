@@ -18,7 +18,7 @@ Team number : VH162 <br>
   <tbody>
     <tr>
       <td>K KARAN</td>
-      <td><a href="kathulakaran@gmail.com">kathulakaran@gmail.com</a></td>
+      <td><a href="mailto:kathulakaran@gmail.com">kathulakaran@gmail.com</a></td>
     </tr>
     <tr>
       <td></td>
