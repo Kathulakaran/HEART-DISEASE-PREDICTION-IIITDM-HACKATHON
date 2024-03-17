@@ -31,7 +31,7 @@ Team number : VH160 <br>
   </tbody>
 </table>
 
-<img src = "C://Users//karan .k//OneDrive//Desktop//HEART DISEASE PREDICTION//Picture1.jpg" alt="picture 1">
+<img src = "Picture1.jpg" alt="picture 1">
 
 <b>PROBLEM STATEMENT</b> <br>
 
@@ -43,7 +43,7 @@ The project utilizes logistic regression to predict heart disease based on patie
 
 <b>TECHNICAL IMPLEMENTATION</b> <br>
 
-<img src = "C:\Users\karan .k\OneDrive\Desktop\HEART DISEASE PREDICTION\Picture2.png" alt = "implementation">
+<img src = "Picture2.png" alt = "implementation" height = "300px">
 
 <b>TECH STACKS USED</b> <br>
 
