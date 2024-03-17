@@ -31,8 +31,8 @@ Team number : VH160 <br>
   </tbody>
 </table>
 
-<img src = "Picture1.jpg" alt="picture 1">
-
+<img src = "Picture1.jpg" alt="picture 1" width = "500px">
+<img src = "picture3.jpg" alt="picture 3" width = "500px">
 <b>PROBLEM STATEMENT</b> <br>
 
 Develop a predictive model using logistic regression to accurately classify patients into those with and without heart disease based on their medical attributes. The model should assist healthcare professionals in early detection and intervention for individuals at risk of cardiovascular ailments.
