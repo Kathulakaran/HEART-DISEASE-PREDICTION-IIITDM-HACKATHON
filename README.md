@@ -7,7 +7,7 @@ This project utilizes logistic regression to predict heart disease based on pati
 
 <b>TEAM DETAILS</b> <br>
 
-Team number : VH162 <br>
+Team number : VH160 <br>
 <table>
   <thead>
     <tr>
@@ -25,8 +25,8 @@ Team number : VH162 <br>
       <td><a href ="mailto:9921005200@klu.ac.in">9921005200@klu.ac.in</a></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
+      <td>P VENKATAKRISHNA</td>
+      <td><a href ="mailto:9921005221@klu.ac.in">9921005221@klu.ac.in</a></td>
     </tr>
   </tbody>
 </table>
@@ -42,4 +42,31 @@ Develop a predictive model using logistic regression to accurately classify pati
 The project utilizes logistic regression to predict heart disease based on patient attributes. It preprocesses the data, trains the model, and evaluates its accuracy, enabling early detection and intervention for cardiovascular ailments. Finally, it makes predictions on new data to classify patients into those with and without heart disease.
 
 <b>TECHNICAL IMPLEMENTATION</b> <br>
+
 <img src = "C:\Users\karan .k\OneDrive\Desktop\HEART DISEASE PREDICTION\Picture2.png" alt = "implementation">
+
+<b>TECH STACKS USED</b> <br>
+
+google colab,ml
+
+<b>HOW TO RUN LOCALLY</b> <br>
+
+<ul>
+  <li>STEP 1: Download The Dataset</li>
+  <li>STEP 2: Load The Dataset in Google Colab</li>
+  <li>STEP 3: Preprocess The Data Aand Build The Model</li>
+  <li>STEP 4: Make The Predictions</li>
+</ul>
+
+<b>WHAT'S NEXT?</b>
+
+<ul>
+  <li>Exploring other machine learning algorithms such as random forests or support vector machines for comparison.</li>
+  <li>Conducting feature engineering to enhance model performance by extracting more meaningful features from the dataset.</li>
+  <li>Deploying the trained model into a real-world healthcare setting for practical use, possibly through a web or mobile application interface.</li>
+</ul>
+
+<b> DECLARATION </b> 
+
+We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
+
